@@ -4,4 +4,5 @@ using UnityEngine;
 
 public interface IDamageAble
 {
+    public void Damage(float damage);
 }

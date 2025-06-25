@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public interface IHealAble 
+public class HealAreaSc : MonoBehaviour
 {
-    public void Heal(float heal);
+
 }
