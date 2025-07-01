@@ -10,7 +10,6 @@ public class TestWeaponEquipt : MonoBehaviour
     private void Start()
     {
         IWeapon weapon = Instantiate(testWeaponPrefab).GetComponent<IWeapon>();
-        weaponHandler.EquipWeapon(weapon);
     }
 
 }

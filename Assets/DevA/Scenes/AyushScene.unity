@@ -4389,7 +4389,6 @@ GameObject:
   - component: {fileID: 8215720949617750339}
   - component: {fileID: 6523702248183738062}
   - component: {fileID: 8215720949617750340}
-  - component: {fileID: 8215720949617750341}
   - component: {fileID: 8215720949617750338}
   m_Layer: 0
   m_Name: Player
@@ -4673,20 +4672,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   weaponHolder: {fileID: 102379255}
---- !u!114 &8215720949617750341
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1633619514451974741}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 153d334565974f843ac11b7cb3b5aad8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  weaponHandler: {fileID: 8215720949617750340}
-  testWeaponPrefab: {fileID: 8695184740715653384, guid: 7b4888d90aed32446a851d5f73433035, type: 3}
+  startingWeaponPrefabs:
+  - {fileID: 8695184740715653384, guid: 7b4888d90aed32446a851d5f73433035, type: 3}
+  - {fileID: 4838422958076713317, guid: fb869d7cb2ebe8745bd6de6a9906ff2a, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
