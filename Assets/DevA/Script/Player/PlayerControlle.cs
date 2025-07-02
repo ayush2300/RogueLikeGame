@@ -9,7 +9,6 @@ public class PlayerControlle: MonoBehaviour
     [SerializeField] float speed;
     private Vector2 move;
 
-    // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();

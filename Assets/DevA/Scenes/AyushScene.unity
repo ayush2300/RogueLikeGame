@@ -9563,6 +9563,8 @@ MonoBehaviour:
   weaponHolder: {fileID: 102379255}
   startingWeaponPrefabs:
   - {fileID: 2811526745029520295, guid: b23dbfbe054df2343b04add4258fde94, type: 3}
+  - {fileID: 7173559114316682458, guid: d16737b4fd17eec41a97f6729276a815, type: 3}
+  - {fileID: 8342551831508805704, guid: 4a02f462053da3b45bff33aef56b8696, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
