@@ -11,4 +11,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/DevC/Scenes/DEV C.unity
     guid: 0cee79f44a00d9345b5bf4b0aaec3ae7
+  - enabled: 1
+    path: Assets/DevA/Scenes/AyushScene.unity
+    guid: b43274c6fffe98f4a9342e22c48f8ae3
+  - enabled: 1
+    path: Assets/DevA/Scenes/Level1.unity
+    guid: 625a359767e34af45bc1e9e48d1505ce
+  - enabled: 1
+    path: Assets/DevA/Scenes/Level2.unity
+    guid: 6c25990ac5c933d4eb900c6a7e1593c8
+  - enabled: 1
+    path: Assets/DevA/Scenes/Level3.unity
+    guid: afe8ba244eba1e24dae418d144d2b865
+  - enabled: 1
+    path: Assets/DevA/Scenes/Level4.unity
+    guid: fa9ee1048e2b1d14db2fb591c8f12906
   m_configObjects: {}
